@@ -1,0 +1,92 @@
+* {
+	font-family: 'Arimo', sans-serif;
+} 
+.header {
+	background-color: #2C2929;
+}
+.logo {
+	padding: 5%;
+}
+li {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0 1%;
+	font-size: 15px;
+}
+.marginul {
+	margin:10% 0%;
+}
+.caja1 {
+	background-color: #E2E4EF;
+	border-bottom: 1px solid #999A9F;
+}
+.letra1 {
+	font-size: 11px;
+	margin:3px;
+}
+.letra2 {
+	color: #23639F;
+	font-size: 14px;
+	margin:5px 10px;
+}
+.margenlet{
+	margin-top: 3px;
+	margin-bottom: 20px;
+}
+.padd {
+	padding: 25px 0px;
+	margin: 20px 0px;
+	border-top: 1px solid #C9CAD5; 
+}
+.letra3{
+	color: black;
+	font-size: 20px;
+	margin:15px 0px;
+}
+.letra4 {
+	color: white;
+	font-size: 15px;
+	margin:30px 15px;
+}
+.letra5 {
+	font-size: 12px;
+	margin:25px;
+	color: #99A5B1;
+}
+.letra6 {
+	color: #444B5E;
+	font-size: 16px;
+	border-bottom:1px solid #C9CAD5;
+	padding: 5px;	
+	margin-bottom:25px;
+}
+.img {
+	height:210px;
+	width:210px;
+}
+.img2 {
+	height:100px;
+	width:100px;
+}
+.borde {
+	padding: 3px;
+	background-color: white;
+	border:1px solid #A7A6C1;
+}
+.margin {
+	margin: 40px 15px;
+}
+.pie {
+	background: #5A6167;
+}
+.inline {
+	display: inline-block;
+}
+.icon {
+	height: 12px;
+	width: 12px;
+}
+.mar {
+	margin:5px 0px;
+}
